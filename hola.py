@@ -6,4 +6,6 @@ if __name__ == "__main__":
 else:
     print("Ejecutado al ser importado")
 
+print("Salu2, José Carlos")
+
     print("ya pude jaja")
