@@ -6,4 +6,7 @@ if __name__ == "__main__":
 else:
     print("Ejecutado al ser importado")
 
-Michell 
+Michell
+
+    print("ya pude jaja")
+
