@@ -7,7 +7,7 @@ else:
     print("Ejecutado al ser importado")
 
 
-Michell
+print("Michell")
 
 print("ya pude jaja")
 
@@ -17,3 +17,7 @@ print("Salu2, José Carlos")
 
     print ("Jelou")
 
+def suma(a,b):
+    return a+b
+
+print(suma(10,8))
