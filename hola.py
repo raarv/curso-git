@@ -15,3 +15,7 @@ print("Salu2, José Carlos")
 
 print("ya pude jaja")
 
+def suma(a,b):
+    return a+b
+
+print(suma(10,8))
