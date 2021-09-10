@@ -7,7 +7,7 @@ else:
     print("Ejecutado al ser importado")
 
 
-Michell
+print("Michell")
 
 print("ya pude jaja")
 
